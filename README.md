@@ -37,6 +37,6 @@ The app needs these permissions to work properly:
 
 ## Prayer Time Calculation
 
-This app uses the **University of Islamic Sciences, Karachi** calculation method by default but you can select your own, fetching data from the trusted [Aladhan Prayer Times API](https://aladhan.com/prayer-times-api).
+This app uses the **University of Islamic Sciences, Karachi** calculation method by default but you can select your own.
 
    
