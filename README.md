@@ -16,8 +16,6 @@ An Android app that automatically sets alarms for all five daily prayers based o
 3. On your Android phone, go to **Settings** → **Security** (or **Privacy**)
 4. Enable **Install from Unknown Sources** (or **Install Unknown Apps** for Android 8+)
 5. Open the downloaded APK file from your Downloads folder
-6. Tap **Install** and follow the prompts
-7. Once installed, you can disable "Unknown Sources" if you wish
 
 ## Requirements
 
