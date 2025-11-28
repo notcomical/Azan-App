@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/settings"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_fetch_times"
+                android:title="@string/fetch_prayer_times" />
+            
+            <item
+                android:id="@+id/action_select_sound"
+                android:title="@string/select_alarm_sound" />
+            
+            <item
+                android:id="@+id/action_time_format"
+                android:checkable="true"
+                android:title="@string/time_format_24h" />
+            
+            <item
+                android:id="@+id/action_dark_mode"
+                android:checkable="true"
+                android:title="@string/dark_mode" />
+            
+            <item
+                android:id="@+id/action_iqamah_times"
+                android:title="@string/set_iqamah_times" />
+            
+            <item
+                android:id="@+id/action_calculation_method"
+                android:title="@string/choose_calculation_method" />
+        </menu>
+    </item>
+    
+</menu>

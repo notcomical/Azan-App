@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Azan</string>
+    <string name="fetch_prayer_times">Fetch Prayer Times</string>
+    <string name="location_label">Location: --</string>
+    <string name="prayer_times_label">Prayer Times</string>
+    <string name="azan_timings">Azan Timings</string>
+    <string name="select_alarm_sound">Change Azan Sound</string>
+    <string name="settings">Settings</string>
+    <string name="time_format_24h">24-Hour Format</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="set_tahajjud_time">Set Tahajjud Time</string>
+    <string name="sound_default">Sound: Default Alarm</string>
+    <string name="set_iqamah_times">Set Iqamah Times</string>
+    <string name="choose_calculation_method">Choose Calculation Method</string>
+    <string name="iqamah_time">Iqamah</string>
+</resources>
